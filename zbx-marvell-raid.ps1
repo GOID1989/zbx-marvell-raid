@@ -34,7 +34,7 @@
 
     .NOTES
     Author: GOID1989
-    Github: https://github.com/GOID1989/
+    Github: https://github.com/GOID1989/zbx-marvell-raid
 #>
 
 Param (
