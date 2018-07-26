@@ -1,5 +1,6 @@
 # zbx-marvell-raid
-Zabbix template and PowerShell script for monitoring Marvell RAID Controller
+Zabbix template and PowerShell script for monitoring Marvell RAID Controller.
+
 Zabbix Share page: https://share.zabbix.com/cat-server-hardware/raid-cards/marvell-raid
 
 The script may generate LLD data for Marvell RAID Controllers, Virtual Drives (other word Logical).
