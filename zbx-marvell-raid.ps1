@@ -25,11 +25,11 @@
     For virtual drives: id of virtual drive (takes: 0, 1, 2, 3, 4 etc);
 
     .EXAMPLE
-    marvell-raid.ps1 -action lld -part hba
+    zbx-marvell-raid.ps1 -action lld -part hba
     {"data":[{"{#HBA.ID}":"0","{#HBA.PRODUCT}":"1b4b-9230"}]}
 
     .EXAMPLE
-    marvell-raid.ps1 health vd 0
+    zbx-marvell-raid.ps1 health vd 0
     1
 
     .NOTES
